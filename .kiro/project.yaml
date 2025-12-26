@@ -1,0 +1,4 @@
+project:
+  name: Local Culture AI
+  description: Beginner AI project using context file
+  language: Python
